@@ -146,5 +146,4 @@ O sistema utiliza MongoDB local, com as seguintes coleções:
 - Organização em camadas
 - Manipulação de rotas HTTP
 
-1. Instalar e iniciar o MongoDB localmente.
-2. Clonar o repositório:
+
